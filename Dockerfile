@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:20.04 #ss
 
 # Update packages and install curl
 RUN apt-get update && \
