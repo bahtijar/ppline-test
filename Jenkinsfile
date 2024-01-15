@@ -1,4 +1,4 @@
-pipeline { ##
+pipeline {
   agent { dockerfile true } // Use Dockerfile as the agent for the pipeline
 
   stages {
